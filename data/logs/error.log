@@ -1,0 +1,2 @@
+[Sat Dec 10 06:00:17.928641 2022] [mpm_event:notice] [pid 1:tid 140244842888008] AH00489: Apache/2.4.54 (Unix) configured -- resuming normal operations
+[Sat Dec 10 06:00:17.928774 2022] [core:notice] [pid 1:tid 140244842888008] AH00094: Command line: 'httpd -D FOREGROUND'
